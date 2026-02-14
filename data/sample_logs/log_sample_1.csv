@@ -1,0 +1,444 @@
+timestamp,server_name,level,cpu_usage,memory_usage,message
+2026-02-01 07:27:26,srv1,WARNING,10,8,CPU spike detected
+2026-02-01 07:35:02,srv1,INFO,47,89,Routine check OK
+2026-02-01 17:25:54,srv1,INFO,0,95,Service started
+2026-02-01 16:06:15,srv1,INFO,78,66,Backup completed
+2026-02-01 15:30:54,srv1,WARNING,30,1,CPU spike detected
+2026-02-01 05:38:08,srv1,WARNING,46,83,Disk space low
+2026-02-01 20:24:41,srv1,ERROR,73,95,Connection lost
+2026-02-01 08:40:15,srv1,WARNING,35,33,Disk space low
+2026-02-01 00:34:33,srv1,ERROR,68,54,Service crashed
+2026-02-01 11:01:55,srv1,INFO,95,16,Routine check OK
+2026-02-01 07:29:55,srv2,WARNING,66,89,CPU spike detected
+2026-02-01 19:30:31,srv2,ERROR,92,15,Failed to write log
+2026-02-01 12:22:58,srv2,WARNING,45,3,High memory usage
+2026-02-01 23:49:40,srv2,ERROR,81,63,Service crashed
+2026-02-01 13:55:20,srv2,WARNING,36,82,High memory usage
+2026-02-01 03:07:13,srv2,ERROR,72,9,Connection lost
+2026-02-01 06:18:22,srv2,ERROR,9,87,Connection lost
+2026-02-01 03:39:59,srv2,INFO,28,51,Backup completed
+2026-02-01 17:29:23,srv2,ERROR,79,71,Failed to write log
+2026-02-01 05:44:40,srv2,WARNING,67,70,High memory usage
+2026-02-01 01:47:42,srv2,WARNING,28,98,High memory usage
+2026-02-01 22:43:53,srv2,INFO,17,100,Routine check OK
+2026-02-01 18:27:36,srv2,ERROR,30,84,Connection lost
+2026-02-01 19:26:43,srv2,INFO,12,47,Backup completed
+2026-02-01 00:14:07,srv2,INFO,41,36,Backup completed
+2026-02-01 16:56:47,srv3,INFO,61,31,Service started
+2026-02-01 10:23:39,srv3,WARNING,1,73,Disk space low
+2026-02-01 08:10:18,srv3,ERROR,14,72,Service crashed
+2026-02-01 22:21:48,srv3,INFO,90,73,Backup completed
+2026-02-01 21:16:29,srv3,INFO,65,82,Routine check OK
+2026-02-01 08:19:27,srv3,WARNING,16,69,High memory usage
+2026-02-01 03:41:59,srv3,ERROR,60,14,Failed to write log
+2026-02-01 12:20:49,srv3,WARNING,39,1,CPU spike detected
+2026-02-01 02:50:28,srv3,ERROR,79,84,Connection lost
+2026-02-01 18:26:09,srv3,INFO,18,18,Backup completed
+2026-02-01 23:51:45,srv3,WARNING,62,87,Disk space low
+2026-02-01 14:57:10,srv3,WARNING,34,31,CPU spike detected
+2026-02-01 18:44:25,srv3,ERROR,6,48,Failed to write log
+2026-02-01 18:11:52,srv3,WARNING,88,4,Disk space low
+2026-02-01 00:00:27,srv3,ERROR,68,96,Connection lost
+2026-02-01 21:50:26,srv3,ERROR,15,93,Connection lost
+2026-02-01 03:53:49,srv3,INFO,72,41,Service started
+2026-02-01 11:16:34,srv3,WARNING,41,79,CPU spike detected
+2026-02-02 16:22:21,srv1,ERROR,25,42,Failed to write log
+2026-02-02 04:56:36,srv1,WARNING,33,52,Disk space low
+2026-02-02 10:53:58,srv1,WARNING,82,66,High memory usage
+2026-02-02 00:42:38,srv1,ERROR,80,50,Connection lost
+2026-02-02 14:31:42,srv1,WARNING,61,85,High memory usage
+2026-02-02 17:26:57,srv1,ERROR,37,40,Failed to write log
+2026-02-02 07:14:24,srv1,WARNING,28,79,CPU spike detected
+2026-02-02 06:21:51,srv1,WARNING,97,52,CPU spike detected
+2026-02-02 23:13:09,srv1,WARNING,39,93,High memory usage
+2026-02-02 18:45:40,srv1,ERROR,100,70,Failed to write log
+2026-02-02 14:04:14,srv1,ERROR,4,68,Service crashed
+2026-02-02 08:17:42,srv1,ERROR,1,83,Service crashed
+2026-02-02 06:34:02,srv1,WARNING,30,98,High memory usage
+2026-02-02 18:18:05,srv1,INFO,35,58,Backup completed
+2026-02-02 04:15:10,srv1,INFO,51,13,Service started
+2026-02-02 14:21:54,srv1,INFO,11,94,Backup completed
+2026-02-02 15:12:25,srv1,ERROR,92,40,Connection lost
+2026-02-02 06:22:41,srv1,WARNING,74,95,CPU spike detected
+2026-02-02 07:07:18,srv1,INFO,96,44,Routine check OK
+2026-02-02 07:12:46,srv1,ERROR,90,10,Connection lost
+2026-02-02 07:55:12,srv2,ERROR,88,58,Failed to write log
+2026-02-02 22:59:57,srv2,INFO,15,45,Service started
+2026-02-02 05:23:12,srv2,ERROR,40,12,Failed to write log
+2026-02-02 00:55:50,srv2,ERROR,73,13,Service crashed
+2026-02-02 11:49:55,srv2,ERROR,60,41,Failed to write log
+2026-02-02 16:59:45,srv2,ERROR,8,70,Connection lost
+2026-02-02 04:31:49,srv2,ERROR,98,31,Service crashed
+2026-02-02 15:08:52,srv2,INFO,53,17,Routine check OK
+2026-02-02 02:22:14,srv2,WARNING,36,65,Disk space low
+2026-02-02 14:45:42,srv2,ERROR,79,35,Failed to write log
+2026-02-02 13:58:27,srv2,WARNING,55,66,CPU spike detected
+2026-02-02 13:14:10,srv3,INFO,49,59,Backup completed
+2026-02-02 16:38:43,srv3,INFO,7,65,Backup completed
+2026-02-02 08:46:28,srv3,INFO,82,83,Service started
+2026-02-02 06:07:36,srv3,ERROR,97,0,Failed to write log
+2026-02-02 22:10:02,srv3,INFO,79,50,Routine check OK
+2026-02-02 15:44:07,srv3,WARNING,73,88,CPU spike detected
+2026-02-02 02:16:05,srv3,WARNING,57,23,CPU spike detected
+2026-02-02 21:07:45,srv3,INFO,54,58,Routine check OK
+2026-02-02 07:47:46,srv3,ERROR,21,3,Connection lost
+2026-02-02 22:36:20,srv3,INFO,27,78,Routine check OK
+2026-02-02 23:02:07,srv3,ERROR,20,38,Connection lost
+2026-02-02 03:52:02,srv3,INFO,18,60,Backup completed
+2026-02-02 19:15:46,srv3,WARNING,15,81,Disk space low
+2026-02-02 00:18:15,srv3,ERROR,17,10,Connection lost
+2026-02-02 18:47:05,srv3,WARNING,97,18,High memory usage
+2026-02-02 19:03:36,srv3,WARNING,65,96,CPU spike detected
+2026-02-02 10:24:40,srv3,INFO,13,47,Backup completed
+2026-02-02 15:33:04,srv3,ERROR,77,73,Service crashed
+2026-02-02 22:40:15,srv3,WARNING,67,37,CPU spike detected
+2026-02-02 13:34:55,srv3,ERROR,22,95,Failed to write log
+2026-02-02 02:18:21,srv3,WARNING,78,10,High memory usage
+2026-02-02 09:23:37,srv3,ERROR,23,85,Service crashed
+2026-02-02 23:39:43,srv3,ERROR,34,41,Service crashed
+2026-02-02 23:42:32,srv3,INFO,82,79,Routine check OK
+2026-02-02 20:22:45,srv3,INFO,2,62,Backup completed
+2026-02-02 18:57:47,srv3,ERROR,23,84,Service crashed
+2026-02-02 10:09:40,srv3,ERROR,69,52,Failed to write log
+2026-02-02 01:56:44,srv3,INFO,49,47,Service started
+2026-02-02 19:20:58,srv3,WARNING,48,98,CPU spike detected
+2026-02-02 02:21:49,srv3,INFO,3,72,Backup completed
+2026-02-03 08:11:26,srv1,INFO,63,21,Service started
+2026-02-03 22:37:19,srv1,INFO,12,67,Service started
+2026-02-03 02:07:41,srv1,INFO,6,82,Backup completed
+2026-02-03 08:01:15,srv1,INFO,82,45,Routine check OK
+2026-02-03 10:34:25,srv1,INFO,43,100,Backup completed
+2026-02-03 00:48:18,srv1,INFO,11,40,Service started
+2026-02-03 13:20:30,srv1,ERROR,32,45,Failed to write log
+2026-02-03 10:54:05,srv1,WARNING,47,65,Disk space low
+2026-02-03 22:40:12,srv1,INFO,59,6,Backup completed
+2026-02-03 09:27:06,srv1,WARNING,52,19,CPU spike detected
+2026-02-03 14:09:33,srv1,INFO,30,93,Routine check OK
+2026-02-03 20:06:12,srv1,WARNING,65,51,Disk space low
+2026-02-03 17:21:39,srv1,ERROR,29,58,Failed to write log
+2026-02-03 10:15:17,srv1,ERROR,78,11,Failed to write log
+2026-02-03 20:08:26,srv1,WARNING,87,6,CPU spike detected
+2026-02-03 08:13:15,srv1,WARNING,98,2,High memory usage
+2026-02-03 02:54:19,srv1,WARNING,75,92,High memory usage
+2026-02-03 06:34:24,srv1,ERROR,81,80,Service crashed
+2026-02-03 04:50:56,srv1,ERROR,3,74,Service crashed
+2026-02-03 11:15:45,srv1,INFO,79,45,Backup completed
+2026-02-03 15:16:07,srv1,ERROR,20,24,Service crashed
+2026-02-03 01:31:43,srv1,WARNING,41,78,Disk space low
+2026-02-03 20:50:09,srv1,WARNING,99,37,Disk space low
+2026-02-03 22:24:13,srv1,ERROR,20,19,Connection lost
+2026-02-03 14:43:09,srv1,ERROR,96,88,Service crashed
+2026-02-03 16:09:13,srv2,ERROR,43,56,Service crashed
+2026-02-03 20:10:04,srv2,WARNING,58,5,High memory usage
+2026-02-03 21:06:06,srv2,WARNING,76,96,CPU spike detected
+2026-02-03 23:45:04,srv2,ERROR,33,5,Service crashed
+2026-02-03 12:25:16,srv2,ERROR,0,7,Connection lost
+2026-02-03 17:41:42,srv2,INFO,47,24,Routine check OK
+2026-02-03 03:02:03,srv2,WARNING,65,89,Disk space low
+2026-02-03 16:42:13,srv2,ERROR,86,99,Service crashed
+2026-02-03 05:03:02,srv2,ERROR,53,77,Service crashed
+2026-02-03 06:29:41,srv2,INFO,39,42,Routine check OK
+2026-02-03 01:39:26,srv2,INFO,40,18,Routine check OK
+2026-02-03 05:25:29,srv2,INFO,31,63,Service started
+2026-02-03 11:27:23,srv2,WARNING,72,38,High memory usage
+2026-02-03 01:24:16,srv2,INFO,85,40,Backup completed
+2026-02-03 01:34:28,srv2,INFO,96,49,Routine check OK
+2026-02-03 02:47:30,srv2,ERROR,87,19,Failed to write log
+2026-02-03 20:47:55,srv2,INFO,18,50,Backup completed
+2026-02-03 23:33:59,srv2,INFO,70,64,Service started
+2026-02-03 06:09:04,srv2,INFO,19,38,Backup completed
+2026-02-03 08:23:03,srv2,ERROR,14,89,Failed to write log
+2026-02-03 15:25:44,srv2,ERROR,64,65,Connection lost
+2026-02-03 06:06:56,srv2,INFO,54,55,Routine check OK
+2026-02-03 18:20:52,srv3,WARNING,54,74,Disk space low
+2026-02-03 14:43:07,srv3,ERROR,90,51,Service crashed
+2026-02-03 08:13:16,srv3,INFO,70,60,Routine check OK
+2026-02-03 10:55:27,srv3,INFO,8,12,Routine check OK
+2026-02-03 05:19:59,srv3,INFO,45,92,Backup completed
+2026-02-03 01:53:56,srv3,INFO,75,94,Service started
+2026-02-03 12:59:01,srv3,INFO,58,54,Service started
+2026-02-03 12:23:05,srv3,INFO,74,5,Service started
+2026-02-03 17:02:27,srv3,ERROR,81,69,Service crashed
+2026-02-03 16:41:45,srv3,WARNING,80,16,Disk space low
+2026-02-03 10:12:02,srv3,WARNING,8,53,High memory usage
+2026-02-03 23:24:31,srv3,WARNING,88,70,High memory usage
+2026-02-03 16:58:00,srv3,WARNING,74,40,High memory usage
+2026-02-03 11:34:06,srv3,WARNING,66,39,High memory usage
+2026-02-03 07:31:21,srv3,WARNING,42,42,High memory usage
+2026-02-03 08:44:53,srv3,WARNING,46,32,Disk space low
+2026-02-03 15:50:56,srv3,ERROR,29,53,Failed to write log
+2026-02-03 02:05:30,srv3,INFO,10,29,Service started
+2026-02-03 05:55:26,srv3,INFO,83,69,Routine check OK
+2026-02-03 03:57:58,srv3,INFO,10,80,Service started
+2026-02-03 01:25:36,srv3,INFO,88,39,Service started
+2026-02-03 04:18:34,srv3,WARNING,62,46,CPU spike detected
+2026-02-03 13:25:46,srv3,ERROR,46,25,Failed to write log
+2026-02-03 02:43:07,srv3,ERROR,64,6,Connection lost
+2026-02-03 12:02:09,srv3,INFO,63,12,Routine check OK
+2026-02-03 17:10:06,srv3,ERROR,64,78,Service crashed
+2026-02-03 03:58:12,srv3,WARNING,64,30,High memory usage
+2026-02-03 10:56:45,srv3,ERROR,4,79,Failed to write log
+2026-02-04 01:31:00,srv1,INFO,89,93,Routine check OK
+2026-02-04 05:05:32,srv1,INFO,65,25,Service started
+2026-02-04 16:49:27,srv1,WARNING,99,39,Disk space low
+2026-02-04 19:30:25,srv1,INFO,85,53,Service started
+2026-02-04 11:26:21,srv1,WARNING,87,55,High memory usage
+2026-02-04 06:10:37,srv1,INFO,38,15,Service started
+2026-02-04 05:56:28,srv1,ERROR,34,31,Service crashed
+2026-02-04 20:43:22,srv1,INFO,11,63,Routine check OK
+2026-02-04 04:12:32,srv1,INFO,10,97,Service started
+2026-02-04 21:14:41,srv1,WARNING,5,55,CPU spike detected
+2026-02-04 01:18:50,srv1,INFO,44,77,Routine check OK
+2026-02-04 21:34:47,srv1,ERROR,56,90,Failed to write log
+2026-02-04 08:05:31,srv1,INFO,92,22,Service started
+2026-02-04 19:35:30,srv1,WARNING,13,69,Disk space low
+2026-02-04 10:03:03,srv1,WARNING,91,90,CPU spike detected
+2026-02-04 09:46:00,srv1,INFO,61,57,Backup completed
+2026-02-04 17:53:34,srv1,INFO,82,99,Backup completed
+2026-02-04 15:09:34,srv1,INFO,85,44,Routine check OK
+2026-02-04 09:51:30,srv1,INFO,0,50,Routine check OK
+2026-02-04 16:26:43,srv1,WARNING,55,20,High memory usage
+2026-02-04 05:42:31,srv1,INFO,78,9,Service started
+2026-02-04 04:10:19,srv1,INFO,23,83,Service started
+2026-02-04 07:12:15,srv1,INFO,97,20,Backup completed
+2026-02-04 22:45:48,srv1,ERROR,66,30,Service crashed
+2026-02-04 08:01:25,srv1,ERROR,48,37,Connection lost
+2026-02-04 14:06:49,srv1,WARNING,66,89,High memory usage
+2026-02-04 04:21:11,srv1,WARNING,56,27,High memory usage
+2026-02-04 12:33:12,srv1,ERROR,26,55,Failed to write log
+2026-02-04 08:58:33,srv1,INFO,62,21,Service started
+2026-02-04 08:16:58,srv1,WARNING,78,72,High memory usage
+2026-02-04 21:31:20,srv2,WARNING,89,84,High memory usage
+2026-02-04 03:36:05,srv2,INFO,93,28,Service started
+2026-02-04 22:57:05,srv2,INFO,67,42,Backup completed
+2026-02-04 07:37:48,srv2,ERROR,10,78,Failed to write log
+2026-02-04 10:03:26,srv2,ERROR,69,74,Service crashed
+2026-02-04 01:56:12,srv2,ERROR,43,47,Failed to write log
+2026-02-04 09:56:00,srv2,INFO,34,24,Routine check OK
+2026-02-04 22:58:19,srv2,WARNING,93,81,CPU spike detected
+2026-02-04 01:21:59,srv2,WARNING,24,93,CPU spike detected
+2026-02-04 17:01:43,srv2,ERROR,43,50,Failed to write log
+2026-02-04 01:20:34,srv2,WARNING,18,6,Disk space low
+2026-02-04 02:45:57,srv2,ERROR,29,56,Connection lost
+2026-02-04 03:45:34,srv2,ERROR,50,89,Failed to write log
+2026-02-04 04:50:48,srv2,WARNING,52,40,High memory usage
+2026-02-04 21:44:47,srv2,INFO,88,61,Backup completed
+2026-02-04 14:58:36,srv2,INFO,38,59,Service started
+2026-02-04 04:56:34,srv2,INFO,59,91,Routine check OK
+2026-02-04 07:16:24,srv2,ERROR,98,38,Failed to write log
+2026-02-04 08:25:09,srv2,WARNING,18,73,Disk space low
+2026-02-04 09:47:00,srv3,INFO,67,94,Routine check OK
+2026-02-04 15:18:14,srv3,ERROR,86,78,Service crashed
+2026-02-04 02:02:38,srv3,ERROR,100,58,Failed to write log
+2026-02-04 17:09:57,srv3,ERROR,96,18,Failed to write log
+2026-02-04 20:48:59,srv3,INFO,47,12,Routine check OK
+2026-02-04 22:23:11,srv3,INFO,26,7,Service started
+2026-02-04 14:21:27,srv3,WARNING,85,18,High memory usage
+2026-02-04 20:21:49,srv3,WARNING,90,92,Disk space low
+2026-02-04 12:37:01,srv3,INFO,4,28,Routine check OK
+2026-02-04 11:28:21,srv3,WARNING,7,28,Disk space low
+2026-02-04 04:25:10,srv3,WARNING,29,35,Disk space low
+2026-02-04 04:55:54,srv3,ERROR,84,98,Failed to write log
+2026-02-04 09:16:03,srv3,INFO,46,8,Service started
+2026-02-04 01:35:23,srv3,WARNING,93,4,CPU spike detected
+2026-02-04 13:04:22,srv3,WARNING,60,29,Disk space low
+2026-02-04 05:14:12,srv3,INFO,62,6,Service started
+2026-02-04 03:20:54,srv3,ERROR,87,22,Failed to write log
+2026-02-04 03:12:11,srv3,INFO,41,22,Routine check OK
+2026-02-04 03:10:33,srv3,INFO,91,99,Service started
+2026-02-05 14:45:26,srv1,INFO,80,83,Routine check OK
+2026-02-05 05:39:04,srv1,ERROR,0,3,Connection lost
+2026-02-05 10:12:06,srv1,WARNING,21,76,High memory usage
+2026-02-05 15:56:53,srv1,WARNING,96,7,CPU spike detected
+2026-02-05 14:13:43,srv1,WARNING,38,65,CPU spike detected
+2026-02-05 08:22:24,srv1,ERROR,35,51,Failed to write log
+2026-02-05 23:29:48,srv1,INFO,12,77,Backup completed
+2026-02-05 13:32:09,srv1,WARNING,95,27,Disk space low
+2026-02-05 10:18:03,srv1,WARNING,74,74,Disk space low
+2026-02-05 13:43:10,srv1,ERROR,31,51,Failed to write log
+2026-02-05 18:49:58,srv1,ERROR,87,44,Service crashed
+2026-02-05 07:22:35,srv1,ERROR,39,36,Service crashed
+2026-02-05 20:59:09,srv2,WARNING,77,4,Disk space low
+2026-02-05 19:25:23,srv2,INFO,75,91,Service started
+2026-02-05 20:41:40,srv2,ERROR,61,34,Failed to write log
+2026-02-05 03:00:18,srv2,INFO,15,14,Routine check OK
+2026-02-05 04:24:49,srv2,ERROR,94,27,Service crashed
+2026-02-05 07:07:06,srv2,WARNING,69,66,CPU spike detected
+2026-02-05 00:04:37,srv2,WARNING,10,28,Disk space low
+2026-02-05 16:44:08,srv2,INFO,13,74,Backup completed
+2026-02-05 00:27:06,srv2,WARNING,44,69,High memory usage
+2026-02-05 01:55:01,srv2,WARNING,39,41,CPU spike detected
+2026-02-05 11:15:23,srv2,WARNING,23,86,CPU spike detected
+2026-02-05 18:14:30,srv2,INFO,32,54,Service started
+2026-02-05 21:58:53,srv2,WARNING,37,37,CPU spike detected
+2026-02-05 13:48:11,srv2,INFO,54,65,Service started
+2026-02-05 01:23:34,srv2,WARNING,48,56,CPU spike detected
+2026-02-05 15:45:15,srv2,WARNING,93,93,High memory usage
+2026-02-05 23:35:32,srv2,ERROR,43,92,Service crashed
+2026-02-05 18:05:32,srv2,WARNING,42,20,CPU spike detected
+2026-02-05 03:16:01,srv2,ERROR,11,54,Failed to write log
+2026-02-05 03:31:16,srv2,INFO,72,56,Backup completed
+2026-02-05 07:48:06,srv2,WARNING,32,13,High memory usage
+2026-02-05 13:00:30,srv2,INFO,15,90,Service started
+2026-02-05 23:23:13,srv3,ERROR,77,93,Failed to write log
+2026-02-05 04:06:56,srv3,INFO,84,92,Service started
+2026-02-05 12:32:07,srv3,WARNING,17,80,Disk space low
+2026-02-05 11:10:26,srv3,WARNING,91,85,CPU spike detected
+2026-02-05 22:43:38,srv3,ERROR,29,82,Service crashed
+2026-02-05 15:53:56,srv3,ERROR,97,10,Service crashed
+2026-02-05 16:36:02,srv3,INFO,7,96,Routine check OK
+2026-02-05 14:52:51,srv3,WARNING,53,89,Disk space low
+2026-02-05 22:56:02,srv3,WARNING,99,34,Disk space low
+2026-02-05 14:44:14,srv3,INFO,31,96,Service started
+2026-02-05 06:03:20,srv3,ERROR,60,10,Failed to write log
+2026-02-05 23:49:53,srv3,ERROR,76,70,Service crashed
+2026-02-05 12:51:00,srv3,WARNING,82,78,Disk space low
+2026-02-05 07:46:14,srv3,INFO,35,65,Service started
+2026-02-05 23:18:56,srv3,INFO,19,11,Backup completed
+2026-02-05 07:34:44,srv3,WARNING,50,61,High memory usage
+2026-02-05 23:35:05,srv3,INFO,18,94,Service started
+2026-02-05 01:14:54,srv3,WARNING,6,28,Disk space low
+2026-02-05 05:35:49,srv3,ERROR,67,95,Failed to write log
+2026-02-05 16:12:10,srv3,INFO,37,7,Routine check OK
+2026-02-05 17:10:27,srv3,INFO,42,97,Backup completed
+2026-02-05 05:47:26,srv3,INFO,63,69,Routine check OK
+2026-02-05 05:33:03,srv3,ERROR,53,68,Connection lost
+2026-02-05 04:03:11,srv3,WARNING,24,73,High memory usage
+2026-02-05 01:48:44,srv3,ERROR,93,46,Failed to write log
+2026-02-05 18:23:55,srv3,ERROR,30,1,Connection lost
+2026-02-05 16:54:08,srv3,WARNING,9,30,CPU spike detected
+2026-02-05 09:34:02,srv3,ERROR,57,32,Connection lost
+2026-02-05 03:50:31,srv3,INFO,52,60,Routine check OK
+2026-02-06 12:28:12,srv1,INFO,81,10,Service started
+2026-02-06 07:13:02,srv1,WARNING,97,97,CPU spike detected
+2026-02-06 05:43:44,srv1,ERROR,15,27,Service crashed
+2026-02-06 15:52:54,srv1,INFO,69,73,Service started
+2026-02-06 01:30:51,srv1,INFO,94,42,Routine check OK
+2026-02-06 01:03:33,srv1,WARNING,13,68,High memory usage
+2026-02-06 00:55:52,srv1,INFO,92,89,Backup completed
+2026-02-06 07:48:37,srv1,WARNING,4,55,CPU spike detected
+2026-02-06 18:21:52,srv1,INFO,73,57,Service started
+2026-02-06 18:30:40,srv1,WARNING,92,84,Disk space low
+2026-02-06 14:00:02,srv1,ERROR,8,1,Connection lost
+2026-02-06 15:17:39,srv1,WARNING,43,30,Disk space low
+2026-02-06 14:32:59,srv1,WARNING,57,61,Disk space low
+2026-02-06 11:57:46,srv1,ERROR,52,89,Connection lost
+2026-02-06 20:14:31,srv1,INFO,61,83,Backup completed
+2026-02-06 02:31:03,srv1,WARNING,11,3,Disk space low
+2026-02-06 04:45:27,srv1,INFO,10,71,Backup completed
+2026-02-06 00:45:34,srv2,WARNING,5,29,CPU spike detected
+2026-02-06 07:39:32,srv2,WARNING,38,52,CPU spike detected
+2026-02-06 22:02:25,srv2,WARNING,49,9,High memory usage
+2026-02-06 15:02:16,srv2,WARNING,3,7,High memory usage
+2026-02-06 11:21:22,srv2,WARNING,21,5,High memory usage
+2026-02-06 22:38:59,srv2,WARNING,75,31,Disk space low
+2026-02-06 07:27:17,srv2,ERROR,92,89,Connection lost
+2026-02-06 14:09:27,srv2,WARNING,0,100,High memory usage
+2026-02-06 13:32:28,srv2,ERROR,66,52,Failed to write log
+2026-02-06 08:59:27,srv2,INFO,100,96,Routine check OK
+2026-02-06 17:37:03,srv2,WARNING,88,34,High memory usage
+2026-02-06 05:04:54,srv2,INFO,96,90,Routine check OK
+2026-02-06 10:53:28,srv2,ERROR,31,10,Connection lost
+2026-02-06 18:41:43,srv2,INFO,8,78,Routine check OK
+2026-02-06 06:40:27,srv3,ERROR,50,97,Failed to write log
+2026-02-06 14:01:31,srv3,WARNING,84,50,Disk space low
+2026-02-06 21:26:14,srv3,ERROR,67,5,Service crashed
+2026-02-06 06:57:53,srv3,INFO,11,65,Backup completed
+2026-02-06 23:48:44,srv3,INFO,51,52,Backup completed
+2026-02-06 18:01:20,srv3,ERROR,88,12,Service crashed
+2026-02-06 14:04:35,srv3,INFO,25,100,Service started
+2026-02-06 03:07:22,srv3,WARNING,4,23,Disk space low
+2026-02-06 10:34:36,srv3,ERROR,75,96,Connection lost
+2026-02-06 02:30:38,srv3,ERROR,99,36,Service crashed
+2026-02-06 02:48:35,srv3,ERROR,100,99,Failed to write log
+2026-02-06 04:32:40,srv3,ERROR,5,84,Service crashed
+2026-02-06 04:38:18,srv3,INFO,25,44,Backup completed
+2026-02-06 01:21:33,srv3,ERROR,39,61,Service crashed
+2026-02-06 00:34:48,srv3,INFO,55,29,Service started
+2026-02-06 01:12:34,srv3,WARNING,71,11,High memory usage
+2026-02-06 23:12:39,srv3,INFO,69,80,Service started
+2026-02-06 18:06:54,srv3,WARNING,63,90,High memory usage
+2026-02-06 01:34:13,srv3,WARNING,53,81,Disk space low
+2026-02-06 07:57:29,srv3,ERROR,72,16,Failed to write log
+2026-02-06 22:30:13,srv3,INFO,89,99,Backup completed
+2026-02-06 06:00:03,srv3,ERROR,25,45,Failed to write log
+2026-02-06 18:40:24,srv3,WARNING,47,50,High memory usage
+2026-02-07 19:40:19,srv1,ERROR,43,21,Connection lost
+2026-02-07 06:19:42,srv1,WARNING,11,53,High memory usage
+2026-02-07 22:52:48,srv1,ERROR,39,1,Service crashed
+2026-02-07 17:41:39,srv1,ERROR,86,95,Connection lost
+2026-02-07 20:50:01,srv1,INFO,16,21,Routine check OK
+2026-02-07 08:29:59,srv1,INFO,32,58,Routine check OK
+2026-02-07 14:29:53,srv1,INFO,36,80,Service started
+2026-02-07 11:47:32,srv1,WARNING,24,99,CPU spike detected
+2026-02-07 18:05:47,srv1,ERROR,44,9,Service crashed
+2026-02-07 19:23:40,srv1,ERROR,95,75,Connection lost
+2026-02-07 07:58:05,srv1,WARNING,30,69,Disk space low
+2026-02-07 02:57:01,srv1,ERROR,35,70,Service crashed
+2026-02-07 04:08:59,srv1,ERROR,1,5,Connection lost
+2026-02-07 20:46:18,srv1,INFO,77,87,Service started
+2026-02-07 08:46:39,srv1,WARNING,11,47,CPU spike detected
+2026-02-07 03:23:38,srv1,INFO,5,50,Service started
+2026-02-07 08:40:29,srv1,ERROR,21,50,Failed to write log
+2026-02-07 20:11:13,srv1,ERROR,32,22,Connection lost
+2026-02-07 08:16:22,srv1,ERROR,69,3,Failed to write log
+2026-02-07 21:36:11,srv1,WARNING,97,9,High memory usage
+2026-02-07 12:36:00,srv1,INFO,79,69,Backup completed
+2026-02-07 16:24:48,srv1,INFO,71,17,Routine check OK
+2026-02-07 05:41:17,srv1,INFO,18,22,Routine check OK
+2026-02-07 17:12:34,srv1,ERROR,89,85,Service crashed
+2026-02-07 00:20:15,srv1,ERROR,70,4,Connection lost
+2026-02-07 05:04:28,srv1,INFO,82,28,Service started
+2026-02-07 00:49:09,srv1,ERROR,43,17,Service crashed
+2026-02-07 22:20:52,srv1,WARNING,5,61,Disk space low
+2026-02-07 12:43:34,srv2,INFO,21,31,Routine check OK
+2026-02-07 22:21:11,srv2,WARNING,52,88,Disk space low
+2026-02-07 00:38:53,srv2,INFO,84,26,Service started
+2026-02-07 10:34:55,srv2,INFO,88,62,Routine check OK
+2026-02-07 01:19:40,srv2,WARNING,42,41,High memory usage
+2026-02-07 21:51:05,srv2,WARNING,71,67,Disk space low
+2026-02-07 11:56:47,srv2,WARNING,24,97,Disk space low
+2026-02-07 14:58:28,srv2,ERROR,85,32,Failed to write log
+2026-02-07 20:21:45,srv2,INFO,11,58,Routine check OK
+2026-02-07 17:07:01,srv2,INFO,80,47,Routine check OK
+2026-02-07 16:41:20,srv2,INFO,21,28,Backup completed
+2026-02-07 13:42:56,srv2,WARNING,18,26,Disk space low
+2026-02-07 02:40:00,srv2,ERROR,99,88,Connection lost
+2026-02-07 11:17:59,srv2,WARNING,52,6,High memory usage
+2026-02-07 12:05:16,srv2,WARNING,50,40,High memory usage
+2026-02-07 10:42:10,srv2,ERROR,63,15,Connection lost
+2026-02-07 11:16:54,srv2,ERROR,19,81,Connection lost
+2026-02-07 15:31:25,srv2,WARNING,4,51,Disk space low
+2026-02-07 08:06:10,srv2,WARNING,87,44,High memory usage
+2026-02-07 08:28:23,srv2,WARNING,0,49,Disk space low
+2026-02-07 02:38:23,srv2,ERROR,18,63,Connection lost
+2026-02-07 03:40:52,srv2,ERROR,35,31,Service crashed
+2026-02-07 16:43:49,srv2,ERROR,28,58,Connection lost
+2026-02-07 14:44:36,srv2,WARNING,5,20,CPU spike detected
+2026-02-07 19:37:04,srv2,ERROR,46,9,Connection lost
+2026-02-07 01:42:22,srv2,WARNING,8,37,High memory usage
+2026-02-07 10:52:23,srv2,WARNING,69,46,Disk space low
+2026-02-07 04:42:20,srv2,INFO,73,65,Routine check OK
+2026-02-07 12:10:04,srv2,INFO,56,75,Service started
+2026-02-07 21:00:02,srv2,INFO,39,0,Service started
+2026-02-07 03:40:48,srv3,WARNING,73,22,High memory usage
+2026-02-07 14:54:06,srv3,ERROR,22,75,Failed to write log
+2026-02-07 18:38:13,srv3,ERROR,76,84,Failed to write log
+2026-02-07 09:47:17,srv3,ERROR,60,63,Failed to write log
+2026-02-07 15:59:51,srv3,INFO,44,69,Routine check OK
+2026-02-07 01:55:54,srv3,WARNING,11,95,Disk space low
+2026-02-07 08:29:40,srv3,WARNING,6,56,High memory usage
+2026-02-07 02:01:48,srv3,WARNING,84,74,CPU spike detected
+2026-02-07 17:33:24,srv3,INFO,43,18,Routine check OK
+2026-02-07 12:51:03,srv3,ERROR,32,90,Failed to write log
+2026-02-07 11:21:47,srv3,WARNING,59,26,Disk space low
+2026-02-07 11:26:17,srv3,WARNING,81,92,Disk space low
+2026-02-07 09:03:59,srv3,ERROR,28,58,Connection lost
+2026-02-07 01:07:13,srv3,WARNING,82,15,High memory usage
+2026-02-07 15:26:02,srv3,INFO,23,76,Routine check OK
+2026-02-07 16:14:50,srv3,INFO,26,27,Routine check OK
+2026-02-07 06:17:03,srv3,WARNING,46,24,Disk space low
+2026-02-07 01:43:31,srv3,WARNING,41,37,Disk space low
+2026-02-07 09:23:20,srv3,ERROR,62,82,Failed to write log
+2026-02-07 15:43:10,srv3,WARNING,16,51,High memory usage
+2026-02-07 07:27:30,srv3,INFO,44,37,Backup completed

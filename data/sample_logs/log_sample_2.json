@@ -1,0 +1,3130 @@
+[
+  {
+    "timestamp": "2026-02-01 11:33:49",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 60,
+    "memory_usage": 97,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 17:12:41",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 38,
+    "memory_usage": 94,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 09:30:38",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 11,
+    "memory_usage": 15,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 23:22:55",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 1,
+    "memory_usage": 41,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 04:49:04",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 34,
+    "memory_usage": 35,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 06:27:37",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 42,
+    "memory_usage": 76,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 10:22:54",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 52,
+    "memory_usage": 44,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-01 02:46:35",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 55,
+    "memory_usage": 63,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 06:56:12",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 48,
+    "memory_usage": 17,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 11:30:08",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 56,
+    "memory_usage": 87,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 11:46:16",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 24,
+    "memory_usage": 6,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 20:50:20",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 29,
+    "memory_usage": 41,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 01:28:14",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 20,
+    "memory_usage": 86,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 11:37:28",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 83,
+    "memory_usage": 15,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-01 23:17:31",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 14,
+    "memory_usage": 99,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 13:24:23",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 21,
+    "memory_usage": 17,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 08:50:32",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 52,
+    "memory_usage": 64,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-01 18:19:16",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 57,
+    "memory_usage": 68,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 12:18:17",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 53,
+    "memory_usage": 78,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 12:37:00",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 15,
+    "memory_usage": 8,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-01 13:34:03",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 71,
+    "memory_usage": 68,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 05:16:21",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 14,
+    "memory_usage": 72,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 23:01:06",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 20,
+    "memory_usage": 17,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-01 04:54:49",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 96,
+    "memory_usage": 51,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 08:31:04",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 76,
+    "memory_usage": 3,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 20:45:52",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 21,
+    "memory_usage": 82,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 04:44:54",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 96,
+    "memory_usage": 35,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 23:07:29",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 100,
+    "memory_usage": 96,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 03:57:39",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 50,
+    "memory_usage": 55,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 01:38:14",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 36,
+    "memory_usage": 76,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 13:53:09",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 67,
+    "memory_usage": 6,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-01 01:06:52",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 34,
+    "memory_usage": 17,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 17:53:25",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 72,
+    "memory_usage": 44,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 04:41:20",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 57,
+    "memory_usage": 53,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 03:52:47",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 52,
+    "memory_usage": 21,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-01 03:23:07",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 3,
+    "memory_usage": 7,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 06:33:23",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 35,
+    "memory_usage": 81,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 03:20:49",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 65,
+    "memory_usage": 79,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 00:19:41",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 90,
+    "memory_usage": 66,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 18:46:50",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 20,
+    "memory_usage": 23,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-01 15:35:15",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 53,
+    "memory_usage": 22,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 16:15:44",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 56,
+    "memory_usage": 43,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 07:53:52",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 94,
+    "memory_usage": 32,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-01 07:33:36",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 70,
+    "memory_usage": 61,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 20:47:29",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 41,
+    "memory_usage": 71,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 20:14:31",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 42,
+    "memory_usage": 71,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 16:36:46",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 16,
+    "memory_usage": 70,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 00:02:23",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 93,
+    "memory_usage": 37,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 02:54:00",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 100,
+    "memory_usage": 66,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-01 17:59:19",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 23,
+    "memory_usage": 53,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-01 18:14:31",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 90,
+    "memory_usage": 99,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 23:43:39",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 6,
+    "memory_usage": 85,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 18:56:03",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 57,
+    "memory_usage": 6,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-01 01:45:06",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 88,
+    "memory_usage": 85,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-01 08:19:26",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 75,
+    "memory_usage": 43,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-01 11:20:35",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 80,
+    "memory_usage": 61,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-01 21:52:45",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 91,
+    "memory_usage": 7,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 09:24:34",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 68,
+    "memory_usage": 2,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 03:13:28",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 3,
+    "memory_usage": 47,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-01 23:36:54",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 70,
+    "memory_usage": 62,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 03:48:54",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 49,
+    "memory_usage": 73,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-01 12:09:38",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 98,
+    "memory_usage": 31,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 06:11:04",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 17,
+    "memory_usage": 76,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 22:41:48",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 15,
+    "memory_usage": 61,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-01 20:05:25",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 59,
+    "memory_usage": 93,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 07:35:34",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 68,
+    "memory_usage": 89,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 20:18:05",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 63,
+    "memory_usage": 81,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-01 01:59:00",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 40,
+    "memory_usage": 73,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 14:07:52",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 1,
+    "memory_usage": 17,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 19:42:41",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 10,
+    "memory_usage": 51,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 23:59:18",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 76,
+    "memory_usage": 6,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-01 13:08:26",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 38,
+    "memory_usage": 94,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-01 02:55:36",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 63,
+    "memory_usage": 53,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-01 06:10:55",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 31,
+    "memory_usage": 32,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-01 22:32:24",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 18,
+    "memory_usage": 17,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-01 18:02:35",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 99,
+    "memory_usage": 52,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-01 03:30:40",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 34,
+    "memory_usage": 74,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 11:11:15",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 31,
+    "memory_usage": 12,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-01 15:42:31",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 54,
+    "memory_usage": 43,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-02 05:28:03",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 32,
+    "memory_usage": 12,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-02 05:43:58",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 42,
+    "memory_usage": 41,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-02 15:35:36",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 63,
+    "memory_usage": 56,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-02 22:15:12",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 87,
+    "memory_usage": 45,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 23:02:41",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 6,
+    "memory_usage": 74,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-02 07:26:35",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 31,
+    "memory_usage": 77,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-02 02:26:48",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 17,
+    "memory_usage": 26,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 15:14:30",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 68,
+    "memory_usage": 15,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-02 17:55:00",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 32,
+    "memory_usage": 6,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-02 12:35:55",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 49,
+    "memory_usage": 19,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 22:16:23",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 54,
+    "memory_usage": 3,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 00:48:13",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 76,
+    "memory_usage": 65,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-02 07:02:01",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 8,
+    "memory_usage": 51,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-02 21:44:43",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 81,
+    "memory_usage": 3,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-02 08:46:03",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 39,
+    "memory_usage": 3,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-02 01:05:52",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 40,
+    "memory_usage": 53,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-02 10:55:39",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 64,
+    "memory_usage": 49,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-02 21:38:50",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 21,
+    "memory_usage": 79,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 23:23:12",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 59,
+    "memory_usage": 52,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-02 10:37:36",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 90,
+    "memory_usage": 16,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-02 08:56:04",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 3,
+    "memory_usage": 95,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-02 15:52:12",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 36,
+    "memory_usage": 69,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-02 00:18:59",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 21,
+    "memory_usage": 77,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-02 03:43:59",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 50,
+    "memory_usage": 85,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-02 11:04:25",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 91,
+    "memory_usage": 70,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 11:03:29",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 27,
+    "memory_usage": 58,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 07:52:58",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 52,
+    "memory_usage": 68,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-02 16:11:39",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 61,
+    "memory_usage": 92,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-02 23:02:34",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 3,
+    "memory_usage": 54,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-02 03:10:23",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 86,
+    "memory_usage": 5,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-02 20:25:32",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 9,
+    "memory_usage": 56,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-02 23:12:39",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 62,
+    "memory_usage": 62,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 10:22:07",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 94,
+    "memory_usage": 27,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-02 20:08:12",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 52,
+    "memory_usage": 47,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-02 08:05:51",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 46,
+    "memory_usage": 31,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-02 16:40:10",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 29,
+    "memory_usage": 99,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-02 22:28:26",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 91,
+    "memory_usage": 54,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-02 22:41:38",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 100,
+    "memory_usage": 87,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-02 01:22:21",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 45,
+    "memory_usage": 52,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-02 23:15:49",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 49,
+    "memory_usage": 42,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-02 19:50:12",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 19,
+    "memory_usage": 92,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-02 05:57:23",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 93,
+    "memory_usage": 81,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-02 11:30:00",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 52,
+    "memory_usage": 61,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-03 22:46:49",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 99,
+    "memory_usage": 71,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 16:34:14",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 12,
+    "memory_usage": 93,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-03 23:55:43",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 77,
+    "memory_usage": 100,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-03 19:47:38",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 93,
+    "memory_usage": 25,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 03:15:48",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 97,
+    "memory_usage": 79,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 22:36:18",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 94,
+    "memory_usage": 52,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-03 21:57:52",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 17,
+    "memory_usage": 34,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-03 20:41:38",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 89,
+    "memory_usage": 87,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-03 07:57:25",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 90,
+    "memory_usage": 48,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-03 13:51:31",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 91,
+    "memory_usage": 87,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-03 02:12:43",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 21,
+    "memory_usage": 5,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 02:44:40",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 38,
+    "memory_usage": 64,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-03 01:35:55",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 82,
+    "memory_usage": 66,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-03 08:30:04",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 19,
+    "memory_usage": 80,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-03 11:33:38",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 6,
+    "memory_usage": 85,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-03 13:26:04",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 47,
+    "memory_usage": 12,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-03 22:57:19",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 12,
+    "memory_usage": 46,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-03 14:05:21",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 55,
+    "memory_usage": 47,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-03 08:14:10",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 58,
+    "memory_usage": 55,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-03 22:04:20",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 36,
+    "memory_usage": 60,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-03 23:52:44",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 48,
+    "memory_usage": 85,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-03 01:58:36",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 63,
+    "memory_usage": 80,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-03 02:03:12",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 41,
+    "memory_usage": 72,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-03 12:55:58",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 33,
+    "memory_usage": 33,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-03 13:20:11",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 43,
+    "memory_usage": 76,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-03 03:06:07",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 38,
+    "memory_usage": 76,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-03 18:47:58",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 27,
+    "memory_usage": 9,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 17:29:14",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 34,
+    "memory_usage": 63,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-03 07:13:43",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 93,
+    "memory_usage": 42,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 14:26:44",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 12,
+    "memory_usage": 78,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-03 08:04:29",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 59,
+    "memory_usage": 40,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-03 01:01:29",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 78,
+    "memory_usage": 70,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-03 23:33:16",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 0,
+    "memory_usage": 83,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-03 11:41:09",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 51,
+    "memory_usage": 18,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-03 13:49:11",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 34,
+    "memory_usage": 65,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-03 21:39:37",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 25,
+    "memory_usage": 73,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-03 04:12:46",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 26,
+    "memory_usage": 84,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-03 04:48:56",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 9,
+    "memory_usage": 21,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 14:01:03",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 16,
+    "memory_usage": 85,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-03 19:43:57",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 55,
+    "memory_usage": 86,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-03 02:09:32",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 3,
+    "memory_usage": 24,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 10:52:03",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 17,
+    "memory_usage": 68,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 06:28:40",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 58,
+    "memory_usage": 61,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-03 04:50:14",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 15,
+    "memory_usage": 52,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-03 06:16:04",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 85,
+    "memory_usage": 5,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-03 20:01:49",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 61,
+    "memory_usage": 72,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-03 09:35:29",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 6,
+    "memory_usage": 49,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-03 11:03:40",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 100,
+    "memory_usage": 100,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-03 01:54:31",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 75,
+    "memory_usage": 24,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-03 11:42:44",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 74,
+    "memory_usage": 13,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-03 00:30:37",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 20,
+    "memory_usage": 48,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-03 08:58:20",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 97,
+    "memory_usage": 99,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-04 08:38:42",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 64,
+    "memory_usage": 56,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-04 13:04:37",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 43,
+    "memory_usage": 1,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-04 12:22:35",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 97,
+    "memory_usage": 20,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 20:36:43",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 27,
+    "memory_usage": 60,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-04 14:40:28",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 8,
+    "memory_usage": 68,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 08:23:44",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 65,
+    "memory_usage": 52,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 02:41:44",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 2,
+    "memory_usage": 13,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-04 20:30:16",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 23,
+    "memory_usage": 91,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-04 03:12:14",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 69,
+    "memory_usage": 32,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 07:43:21",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 44,
+    "memory_usage": 10,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-04 04:09:15",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 40,
+    "memory_usage": 64,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 02:23:01",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 20,
+    "memory_usage": 73,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 20:47:56",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 2,
+    "memory_usage": 13,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 16:14:35",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 79,
+    "memory_usage": 61,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 09:46:50",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 10,
+    "memory_usage": 50,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 02:55:32",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 22,
+    "memory_usage": 69,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-04 01:52:19",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 58,
+    "memory_usage": 84,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 16:44:05",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 54,
+    "memory_usage": 99,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 15:05:33",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 14,
+    "memory_usage": 16,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-04 06:17:20",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 26,
+    "memory_usage": 12,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-04 11:10:04",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 43,
+    "memory_usage": 34,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-04 15:24:11",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 56,
+    "memory_usage": 14,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 07:58:01",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 44,
+    "memory_usage": 25,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 12:38:30",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 46,
+    "memory_usage": 96,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-04 09:47:16",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 16,
+    "memory_usage": 65,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-04 05:19:34",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 70,
+    "memory_usage": 99,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 23:41:01",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 5,
+    "memory_usage": 73,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-04 19:04:44",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 89,
+    "memory_usage": 89,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-04 04:30:01",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 96,
+    "memory_usage": 13,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-04 03:43:32",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 24,
+    "memory_usage": 58,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-04 00:05:13",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 56,
+    "memory_usage": 52,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-04 03:35:03",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 4,
+    "memory_usage": 35,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-04 10:54:15",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 94,
+    "memory_usage": 39,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-04 13:34:12",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 35,
+    "memory_usage": 7,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-04 22:07:37",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 54,
+    "memory_usage": 51,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-04 04:31:18",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 84,
+    "memory_usage": 35,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 11:30:19",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 96,
+    "memory_usage": 27,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-04 23:35:28",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 3,
+    "memory_usage": 37,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-04 07:00:39",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 28,
+    "memory_usage": 27,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-04 21:29:13",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 95,
+    "memory_usage": 3,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-04 12:59:27",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 19,
+    "memory_usage": 19,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 03:59:09",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 21,
+    "memory_usage": 2,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-04 22:12:28",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 74,
+    "memory_usage": 0,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-04 11:46:18",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 84,
+    "memory_usage": 78,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-04 04:58:08",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 74,
+    "memory_usage": 15,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-04 17:39:21",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 31,
+    "memory_usage": 56,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-04 11:29:18",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 62,
+    "memory_usage": 53,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-04 03:00:54",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 25,
+    "memory_usage": 34,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-04 11:14:51",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 91,
+    "memory_usage": 31,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-04 07:40:12",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 68,
+    "memory_usage": 40,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 19:24:26",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 100,
+    "memory_usage": 47,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 02:28:18",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 24,
+    "memory_usage": 76,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-04 09:11:49",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 49,
+    "memory_usage": 98,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-04 10:35:13",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 44,
+    "memory_usage": 23,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-04 08:56:22",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 71,
+    "memory_usage": 55,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-04 05:44:07",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 64,
+    "memory_usage": 11,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-04 23:42:05",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 83,
+    "memory_usage": 47,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-04 23:05:15",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 13,
+    "memory_usage": 59,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-04 23:16:43",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 48,
+    "memory_usage": 74,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-05 23:14:22",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 6,
+    "memory_usage": 79,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-05 21:54:51",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 83,
+    "memory_usage": 85,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-05 00:32:33",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 92,
+    "memory_usage": 88,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-05 10:19:28",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 94,
+    "memory_usage": 64,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-05 09:37:05",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 27,
+    "memory_usage": 93,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-05 00:15:56",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 81,
+    "memory_usage": 90,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-05 22:11:15",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 35,
+    "memory_usage": 10,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-05 11:01:09",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 8,
+    "memory_usage": 90,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-05 08:51:45",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 19,
+    "memory_usage": 74,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-05 08:19:02",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 2,
+    "memory_usage": 80,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-05 22:01:40",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 6,
+    "memory_usage": 66,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-05 23:27:44",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 83,
+    "memory_usage": 10,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-05 07:11:37",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 49,
+    "memory_usage": 48,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-05 01:46:41",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 21,
+    "memory_usage": 34,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-05 07:00:52",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 4,
+    "memory_usage": 63,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 14:54:05",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 93,
+    "memory_usage": 82,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-05 12:14:27",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 28,
+    "memory_usage": 56,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-05 19:20:12",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 33,
+    "memory_usage": 57,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-05 09:49:28",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 41,
+    "memory_usage": 2,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-05 04:40:38",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 93,
+    "memory_usage": 17,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-05 14:46:16",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 29,
+    "memory_usage": 21,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 05:13:01",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 49,
+    "memory_usage": 71,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-05 14:09:00",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 51,
+    "memory_usage": 9,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-05 02:04:29",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 41,
+    "memory_usage": 74,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-05 04:20:37",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 15,
+    "memory_usage": 88,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-05 07:57:16",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 46,
+    "memory_usage": 42,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-05 01:57:48",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 22,
+    "memory_usage": 65,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-05 09:49:07",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 21,
+    "memory_usage": 69,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-05 16:12:00",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 81,
+    "memory_usage": 66,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 01:59:06",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 53,
+    "memory_usage": 75,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 19:42:19",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 55,
+    "memory_usage": 67,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-05 21:01:23",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 6,
+    "memory_usage": 57,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 15:12:53",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 38,
+    "memory_usage": 83,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-05 23:16:35",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 40,
+    "memory_usage": 90,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 11:41:04",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 83,
+    "memory_usage": 41,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-05 11:04:46",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 54,
+    "memory_usage": 97,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-05 01:19:41",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 14,
+    "memory_usage": 79,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-05 22:12:45",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 94,
+    "memory_usage": 25,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-05 20:43:05",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 94,
+    "memory_usage": 43,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-05 19:12:12",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 12,
+    "memory_usage": 85,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 12:24:54",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 73,
+    "memory_usage": 64,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-05 08:56:59",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 90,
+    "memory_usage": 59,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-05 18:12:15",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 61,
+    "memory_usage": 71,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-05 20:34:14",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 63,
+    "memory_usage": 54,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-05 13:26:23",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 34,
+    "memory_usage": 39,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-05 02:35:32",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 79,
+    "memory_usage": 33,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 07:14:26",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 32,
+    "memory_usage": 65,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-05 13:11:19",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 76,
+    "memory_usage": 91,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-05 04:37:03",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 78,
+    "memory_usage": 64,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-05 00:01:08",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 93,
+    "memory_usage": 95,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-05 11:27:50",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 86,
+    "memory_usage": 9,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-05 07:30:22",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 15,
+    "memory_usage": 98,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-05 09:11:54",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 95,
+    "memory_usage": 76,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-05 03:51:26",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 6,
+    "memory_usage": 74,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-05 18:29:44",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 10,
+    "memory_usage": 58,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-06 04:31:17",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 32,
+    "memory_usage": 93,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-06 02:21:54",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 49,
+    "memory_usage": 64,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-06 17:52:08",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 55,
+    "memory_usage": 46,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-06 12:08:38",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 8,
+    "memory_usage": 15,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-06 06:50:08",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 88,
+    "memory_usage": 30,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-06 08:07:54",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 66,
+    "memory_usage": 60,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-06 16:40:46",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 28,
+    "memory_usage": 99,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-06 14:03:41",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 63,
+    "memory_usage": 93,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-06 15:36:46",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 98,
+    "memory_usage": 97,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-06 01:40:45",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 34,
+    "memory_usage": 38,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-06 17:59:05",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 33,
+    "memory_usage": 92,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-06 14:17:26",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 87,
+    "memory_usage": 11,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-06 11:24:16",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 25,
+    "memory_usage": 68,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-06 03:21:01",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 82,
+    "memory_usage": 43,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-06 21:38:29",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 15,
+    "memory_usage": 56,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-06 07:12:33",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 57,
+    "memory_usage": 94,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-06 18:12:07",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 7,
+    "memory_usage": 21,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-06 00:26:23",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 67,
+    "memory_usage": 88,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-06 17:48:02",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 41,
+    "memory_usage": 89,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-06 11:02:54",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 60,
+    "memory_usage": 39,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-06 09:12:30",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 75,
+    "memory_usage": 29,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-06 03:42:45",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 19,
+    "memory_usage": 7,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-06 11:40:21",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 89,
+    "memory_usage": 89,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-06 23:45:58",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 9,
+    "memory_usage": 30,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-06 13:09:41",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 68,
+    "memory_usage": 11,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-06 22:54:52",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 50,
+    "memory_usage": 48,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-06 05:31:08",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 0,
+    "memory_usage": 8,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-06 12:59:26",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 29,
+    "memory_usage": 58,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-06 17:14:14",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 34,
+    "memory_usage": 15,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-06 09:26:25",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 98,
+    "memory_usage": 21,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-06 13:50:39",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 38,
+    "memory_usage": 38,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-06 22:06:39",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 71,
+    "memory_usage": 63,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-06 21:12:51",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 46,
+    "memory_usage": 96,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-06 03:26:22",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 42,
+    "memory_usage": 61,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-06 21:29:30",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 66,
+    "memory_usage": 34,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-06 06:27:18",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 42,
+    "memory_usage": 7,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-06 23:30:02",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 17,
+    "memory_usage": 78,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-06 05:37:46",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 80,
+    "memory_usage": 5,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-06 01:29:04",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 46,
+    "memory_usage": 34,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-06 20:06:49",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 48,
+    "memory_usage": 28,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-06 12:42:13",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 44,
+    "memory_usage": 51,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-06 19:33:49",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 63,
+    "memory_usage": 79,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-06 08:33:27",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 10,
+    "memory_usage": 92,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-06 16:15:12",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 100,
+    "memory_usage": 48,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-06 16:36:17",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 90,
+    "memory_usage": 21,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-07 05:41:23",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 4,
+    "memory_usage": 32,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-07 22:14:01",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 29,
+    "memory_usage": 56,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-07 11:14:45",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 16,
+    "memory_usage": 49,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 12:17:19",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 41,
+    "memory_usage": 76,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-07 23:54:27",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 2,
+    "memory_usage": 65,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-07 12:47:56",
+    "server_name": "srv1",
+    "level": "ERROR",
+    "cpu_usage": 48,
+    "memory_usage": 42,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-07 11:24:48",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 22,
+    "memory_usage": 83,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-07 07:05:22",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 81,
+    "memory_usage": 6,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 10:01:25",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 8,
+    "memory_usage": 46,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 23:26:47",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 21,
+    "memory_usage": 73,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 13:21:40",
+    "server_name": "srv1",
+    "level": "INFO",
+    "cpu_usage": 9,
+    "memory_usage": 70,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-07 19:45:27",
+    "server_name": "srv1",
+    "level": "WARNING",
+    "cpu_usage": 91,
+    "memory_usage": 12,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 16:34:05",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 30,
+    "memory_usage": 38,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 20:59:18",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 76,
+    "memory_usage": 9,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-07 09:26:03",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 55,
+    "memory_usage": 31,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-07 22:14:29",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 42,
+    "memory_usage": 34,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-07 12:54:00",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 15,
+    "memory_usage": 30,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 01:33:10",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 19,
+    "memory_usage": 13,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 12:27:45",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 88,
+    "memory_usage": 96,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-07 06:29:14",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 71,
+    "memory_usage": 88,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 04:47:53",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 90,
+    "memory_usage": 10,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 23:16:48",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 7,
+    "memory_usage": 83,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 06:38:32",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 93,
+    "memory_usage": 69,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-07 12:41:04",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 80,
+    "memory_usage": 25,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-07 03:29:08",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 7,
+    "memory_usage": 23,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-07 17:19:05",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 32,
+    "memory_usage": 78,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 19:22:49",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 24,
+    "memory_usage": 72,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 17:32:51",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 65,
+    "memory_usage": 84,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-07 08:38:51",
+    "server_name": "srv2",
+    "level": "WARNING",
+    "cpu_usage": 55,
+    "memory_usage": 16,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 23:47:45",
+    "server_name": "srv2",
+    "level": "INFO",
+    "cpu_usage": 36,
+    "memory_usage": 61,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 15:16:45",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 57,
+    "memory_usage": 25,
+    "message": "Service crashed"
+  },
+  {
+    "timestamp": "2026-02-07 10:15:00",
+    "server_name": "srv2",
+    "level": "ERROR",
+    "cpu_usage": 3,
+    "memory_usage": 25,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-07 12:40:18",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 29,
+    "memory_usage": 75,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-07 09:36:46",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 64,
+    "memory_usage": 33,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-07 03:27:39",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 47,
+    "memory_usage": 6,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-07 20:56:55",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 37,
+    "memory_usage": 37,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 16:52:42",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 85,
+    "memory_usage": 95,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-07 12:48:26",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 44,
+    "memory_usage": 45,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-07 13:17:57",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 30,
+    "memory_usage": 88,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-07 06:59:52",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 57,
+    "memory_usage": 96,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 04:11:12",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 47,
+    "memory_usage": 33,
+    "message": "Backup completed"
+  },
+  {
+    "timestamp": "2026-02-07 09:19:43",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 92,
+    "memory_usage": 51,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-07 05:06:51",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 22,
+    "memory_usage": 81,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-07 06:03:41",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 7,
+    "memory_usage": 58,
+    "message": "Disk space low"
+  },
+  {
+    "timestamp": "2026-02-07 15:01:52",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 59,
+    "memory_usage": 45,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 17:47:24",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 68,
+    "memory_usage": 35,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 10:31:14",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 27,
+    "memory_usage": 92,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 17:29:39",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 87,
+    "memory_usage": 75,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-07 07:45:33",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 30,
+    "memory_usage": 49,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 12:24:34",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 84,
+    "memory_usage": 62,
+    "message": "Routine check OK"
+  },
+  {
+    "timestamp": "2026-02-07 05:21:49",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 21,
+    "memory_usage": 76,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 06:48:13",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 45,
+    "memory_usage": 62,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-07 17:15:11",
+    "server_name": "srv3",
+    "level": "INFO",
+    "cpu_usage": 18,
+    "memory_usage": 96,
+    "message": "Service started"
+  },
+  {
+    "timestamp": "2026-02-07 17:13:53",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 62,
+    "memory_usage": 61,
+    "message": "Connection lost"
+  },
+  {
+    "timestamp": "2026-02-07 16:43:25",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 50,
+    "memory_usage": 41,
+    "message": "CPU spike detected"
+  },
+  {
+    "timestamp": "2026-02-07 06:10:02",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 73,
+    "memory_usage": 16,
+    "message": "High memory usage"
+  },
+  {
+    "timestamp": "2026-02-07 09:31:20",
+    "server_name": "srv3",
+    "level": "ERROR",
+    "cpu_usage": 83,
+    "memory_usage": 36,
+    "message": "Failed to write log"
+  },
+  {
+    "timestamp": "2026-02-07 17:31:29",
+    "server_name": "srv3",
+    "level": "WARNING",
+    "cpu_usage": 82,
+    "memory_usage": 39,
+    "message": "Disk space low"
+  }
+]
