@@ -5,6 +5,16 @@ from loganalyzer.logging_config import setup_logging
 logger = logging.getLogger(__name__)
 
 def analyze_df(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    ログデータを分析し、サーバー別・日別の集計結果を作成する関数
+
+    timestamp列から日付（date）列を生成し、ログレベル別件数を集計する
+    CPU / メモリ使用率の平均値を算出する
+    集計結果を結合して1つのDataFrameにまとめる
+
+    :param df:　パース済みのログデータ
+    :return:　分析・集計後のデータ
+    """
 
     logger.info(f'Analysis started')
     try:
@@ -34,7 +44,7 @@ def analyze_df(df: pd.DataFrame) -> pd.DataFrame:
     return df_analyzed
 
 
-
+#ここからはテストです
 if __name__ == '__main__':
     setup_logging(level=logging.DEBUG)
 

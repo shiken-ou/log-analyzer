@@ -6,6 +6,21 @@ from loganalyzer.logging_config import setup_logging
 logger = logging.getLogger(__name__)
 
 def parse_all(df_list : list[pd.DataFrame], file_list : list[Path]) -> pd.DataFrame:
+    """
+    複数ログファイルのデータをクレンジングし、一つにまとめる関数
+
+    読み込まれた複数のDataFrameに対して順番にパース処理を行い、
+    不正データの除外や形式統一などの前処理を実施する。
+
+    個別ファイルの解析に失敗した場合はログに記録し、
+    処理をスキップすることで全体処理への影響を最小限に抑える。
+
+    有効なデータのみを統合し、1つのDataFrameとして返却する。
+
+    :param df_list:　読み込まれたログデータのDataFrameリスト
+    :param file_list:　各DataFrameに対応するファイルパスのリスト
+    :return:　クレンジング・統合されたログデータ
+    """
 
     parsed_df_list = []
     logger.info(f'Parsing started')
@@ -32,7 +47,16 @@ def parse_all(df_list : list[pd.DataFrame], file_list : list[Path]) -> pd.DataFr
 
 
 def parse_one(df : pd.DataFrame, file : Path) -> pd.DataFrame:
+    """
+    単一ログファイルのデータをクレンジングする関数
 
+    必須列の存在確認、欠損したデートの除外、日時形式変換、重複データ削除などの前処理を行う。
+    不正なデータ形式や必須項目不足の場合は例外を検知し、上位処理に通知する。
+
+    :param df: 1つのログファイルから読み込まれたDataFrame
+    :param file: 対象ログファイルのパス
+    :return:　クレンジングされたログデータ
+    """
 
     if df.empty:
         return df
@@ -58,7 +82,7 @@ def parse_one(df : pd.DataFrame, file : Path) -> pd.DataFrame:
     return df
 
 
-
+#ここからはテストです
 if __name__ == '__main__':
     setup_logging(level=logging.DEBUG)
     test_data = {

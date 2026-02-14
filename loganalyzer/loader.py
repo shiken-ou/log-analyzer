@@ -6,6 +6,18 @@ from loganalyzer.logging_config import setup_logging
 logger = logging.getLogger(__name__)
 
 def load_logs_from_dir(data_dir : Path) -> (list[pd.DataFrame], list[Path]):
+    """
+    指定ディレクトリのログファイルを読み込む関数
+
+    対象となるCSVおよびJSON形式のログファイルを再帰的に検索し、
+    ファイルをDataFrame形式で読み込む。
+
+    読み込みに成功したファイルとDataFrameのリストを返却する。
+    不正なファイル形式や読み込み失敗時は、ログに記録した上で処理をスキップする。
+
+    :param data_dir:　ログデータが格納されているディレクトリのパス
+    :return:　読み込んだログデータのDataFrameリストと、ファイルパスのリスト。
+    """
 
     df_list: list[pd.DataFrame] = []
     file_list: list[Path] = []
@@ -47,7 +59,7 @@ def load_logs_from_dir(data_dir : Path) -> (list[pd.DataFrame], list[Path]):
     logger.info(f'Loaded {len(df_list)} files from {data_dir_resolved}')
     return df_list, file_list
 
-
+#ここからはテストです
 if __name__ == '__main__':
     setup_logging(level= logging.DEBUG)
     dfs, files = load_logs_from_dir(Path(__file__).parent.parent / 'data' / 'sample_logs' )

@@ -7,6 +7,17 @@ from logging.handlers import RotatingFileHandler
 _setup_flag = False
 
 def setup_logging(log_dir : Union[Path, None] = None, level = logging.INFO):
+    """
+    ログ出力設定を初期化する関数
+
+    ファイルログおよびコンソールログの出力設定を行い、
+    指定されたディレクトリにログファイルを生成する。
+    多重初期化を防ぐため、一度のみ実行される仕組みになっている。
+
+    :param log_dir:ログファイルの出力先ディレクトリ
+    :param level:ログ出力レベル
+    :return:なし
+    """
 
     global _setup_flag
     if _setup_flag:

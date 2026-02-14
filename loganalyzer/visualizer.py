@@ -10,6 +10,16 @@ from loganalyzer.logging_config import setup_logging
 logger = logging.getLogger(__name__)
 
 def visualize_result(df: pd.DataFrame):
+    """
+    解析結果のDataFrameをもとにグラフを生成し、画像ファイルとして保存する関数
+
+    出力用ディレクトリを作成する（存在しない場合）
+    CPU使用率・メモリ使用率の推移グラフを生成する
+    エラー件数の棒グラフを生成する
+    date列の最小値・最大値から期間を取得し、分析期間・生成時タイムスタンプ付きのファイル名でPNG形式で保存する
+    :param df: analyze_df関数で生成された解析済みデータ
+    :return: なし
+    """
 
     logger.info('Visualizing result')
     output_dir = Path(__file__).parent.parent / 'data' / 'output'
@@ -45,6 +55,18 @@ def visualize_result(df: pd.DataFrame):
 
 
 def make_usage_plot(df: pd.DataFrame) -> (Figure, Axes):
+    """
+    CPU使用率およびメモリ使用率の推移グラフを作成する関数
+
+
+    date列を横軸として折れ線グラフを作成する
+    cpu_avg、memory_avg列を使用して使用率を可視化する
+    ラベル、タイトル、レイアウトを設定する
+
+    :param df: analyze_df関数で生成された解析済みデータ
+    :return:作成されたFigureオブジェクトとAxesオブジェクト
+    """
+
 
     logger.info('Generating usage plot')
     fig, ax = plt.subplots(figsize=(12, 6))
@@ -63,6 +85,17 @@ def make_usage_plot(df: pd.DataFrame) -> (Figure, Axes):
 
 
 def make_errors_bar_plot(df: pd.DataFrame) -> (Figure, Axes):
+    """
+    日別エラー件数の棒グラフを作成する関数
+
+    date列を横軸として棒グラフを作成する
+    ERROR列を使用して日別エラー件数を表示する
+    ラベル、タイトル、レイアウトを設定する
+
+    :param df: analyze_df関数で生成された解析済みデータ
+    :return: 作成されたFigureオブジェクトとAxesオブジェクト
+    """
+
 
     logger.info('Generating errors bar plot')
     fig, ax = plt.subplots(figsize=(10, 5))
@@ -78,6 +111,7 @@ def make_errors_bar_plot(df: pd.DataFrame) -> (Figure, Axes):
     return fig, ax
 
 
+#ここからはテストです
 if __name__ == '__main__':
     setup_logging(level=logging.DEBUG)
 

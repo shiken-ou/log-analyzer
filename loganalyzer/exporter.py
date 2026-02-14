@@ -8,7 +8,17 @@ from loganalyzer.logging_config import setup_logging
 logger = logging.getLogger(__name__)
 
 def export_result(df : pd.DataFrame):
+    """
+    解析済みデータをExcelファイルとして出力する関数
 
+    出力用ディレクトリを作成する（存在しない場合）
+    元のDataFrameをコピーしてから処理を行う（元データを変更せずvisualizerに渡すため）
+    date列を「YYYY-MM-DD」形式の文字列に変換する
+    サーバー名ごとにデータを分割し、Excelファイルとして保存する
+
+    :param df: analyze_df関数で生成された解析済みデータ
+    :return: なし
+    """
     logger.info(f'Export started')
     df_copy = df.copy()
     try:
@@ -40,7 +50,7 @@ def export_result(df : pd.DataFrame):
         logger.info(f'Export completed')
 
 
-
+#ここからはテストです
 if __name__ == '__main__':
     setup_logging(level=logging.DEBUG)
 
