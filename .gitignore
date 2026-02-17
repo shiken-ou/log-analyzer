@@ -1,0 +1,13 @@
+# Python cache
+loganalyzer/__pycache__/
+*.pyc
+*.pyo
+
+#logs
+logs/
+
+#venv
+.venv/
+
+#.idea
+.idea/

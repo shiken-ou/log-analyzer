@@ -73,8 +73,9 @@ def make_usage_plot(df: pd.DataFrame) -> (Figure, Axes):
 
     logger.info('Generating usage plot')
     fig, ax = plt.subplots(figsize=(12, 6))
-    ax.plot(df['date'], df['cpu_avg'], label='CPU Usage')
-    ax.plot(df['date'], df['memory_avg'], label='Memory Usage')
+    for server_name, server_df in df.groupby('server_name'):
+        ax.plot(server_df['date'], server_df['cpu_avg'], label=f'{server_name} CPU Usage')
+        ax.plot(server_df['date'], server_df['memory_avg'], label=f'{server_name} Memory Usage')
 
     ax.set_xlabel('Date')
     ax.tick_params(axis='x', labelrotation=45)
