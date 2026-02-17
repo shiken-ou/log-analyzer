@@ -1,3 +1,6 @@
+"""
+集計結果をサーバーごとにシート分けして Excel で出力。保存先は data/output。
+"""
 from datetime import datetime
 import pandas as pd
 import logging

@@ -1,3 +1,6 @@
+"""
+集計結果をもとに CPU/メモリ使用率の折れ線グラフとエラー件数の棒グラフを描画し、data/output に PNG で保存する。
+"""
 import logging
 import time
 from pathlib import Path

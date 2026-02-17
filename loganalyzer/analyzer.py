@@ -1,3 +1,6 @@
+"""
+サーバー・日付で集計。レベル別件数・CPU/メモリ日平均を算出し、1本の分析用 DataFrame にまとめる。
+"""
 import pandas as pd
 import logging
 from loganalyzer.logging_config import setup_logging

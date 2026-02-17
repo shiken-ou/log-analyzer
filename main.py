@@ -1,3 +1,6 @@
+"""
+ログ解析ツールのエントリポイント。ログ読込・解析・集計・Excel出力・グラフ生成を行う。
+"""
 import logging
 from pathlib import  Path
 from typing import Union

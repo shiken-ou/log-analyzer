@@ -1,9 +1,12 @@
+"""
+ルート logger の共通設定。ファイルローテーションとコンソール出力を一度だけ初期化する。
+"""
 import logging
 from pathlib import Path
 from typing import Union
 from logging.handlers import RotatingFileHandler
 
-
+# Handler の二重登録・多重初期化を防ぐ
 _setup_flag = False
 
 def setup_logging(log_dir : Union[Path, None] = None, level = logging.INFO):

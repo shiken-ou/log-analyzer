@@ -1,3 +1,6 @@
+"""
+指定ディレクトリを再帰的に読み込み、CSV/JSON のログファイルを DataFrame のリストとして読み込む。
+"""
 import logging
 from pathlib import Path
 import pandas as pd
@@ -49,8 +52,10 @@ def load_logs_from_dir(data_dir : Path) -> (list[pd.DataFrame], list[Path]):
             except Exception as e:
                 logger.error(f'Failed to read {file_resolved}: {e}')
 
-        df_list.append(df)
-        file_list.append(file)
+        # 読み込み成功時のみリストに追加（None を渡さない）
+        if df is not None:
+            df_list.append(df)
+            file_list.append(file)
 
     if not df_list:
         logger.exception(f'No csv or json file in directory: {data_dir_resolved}')

@@ -1,3 +1,6 @@
+"""
+単一/複数ログファイルのクレンジングと結合。必須列チェック・欠損除去・日時変換・重複削除を行う。
+"""
 import pandas as pd
 import logging
 from pathlib import Path
@@ -61,7 +64,8 @@ def parse_one(df : pd.DataFrame, file : Path) -> pd.DataFrame:
     if df.empty:
         return df
     file_resolved = file.resolve()
-    column_list =['server_name', 'timestamp', 'level', 'cpu_usage', 'memory_usage', 'message']
+    # 解析・出力で参照する必須列
+    column_list = ['server_name', 'timestamp', 'level', 'cpu_usage', 'memory_usage', 'message']
     if not all(col in df.columns for col in column_list):
         logger.error(f'Missing columns in file: {file_resolved}')
         raise KeyError(f'Missing columns in file: {file_resolved}')
